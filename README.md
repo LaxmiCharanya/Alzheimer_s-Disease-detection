@@ -27,15 +27,6 @@ Inside the Repository's directory, Open Terminal/ Command Prompt and type in:
 ipython
 ```
 
-The above command should result in something like this:
-```bash
-Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)]
-Type 'copyright', 'credits' or 'license' for more information
-IPython 7.31.0 -- An enhanced Interactive Python. Type '?' for help.
-
-In [1]:
-```
-
 Now type in:
 ```bash
 In [1]: %run user-engine.ipynb
